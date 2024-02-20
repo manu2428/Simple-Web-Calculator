@@ -10,7 +10,5 @@
 >> 6. You can open all three files in any kind of text editor you'd like to (right click -> Open with..)
 >> 7. My personal choice is SublimeText and it's free to use (under non-commercial license).
 >> 8. Get the SublimeText from here --> www.sublimetext.com/3
->> 9. This project is not mine, means I've got the idea from a YT channel called 'Bro Code'
->> 10. You can visit them for more projects like this...
->> 11. There will be new modifications for this project, check out often ♧
->> 12. AND finally thank u for using this project ♡
+>> 9. There will be new modifications for this project, check out often ♧
+>> 10. AND finally thank u for using this project ♡
